@@ -1,10 +1,8 @@
 # GTA-SA
-One click programe to activate cheat in GTA SA 
+Programa de um clique para ativar trapaças no GTA San Andreas
 
-Before you start make sure you Install python and add it to PATH variable in Windows
+Antes de começar, certifique-se de que o Python esteja instalado e adicionado à variável PATH no Windows.
 
-1- Just run "Duble click to run.bat" .
-
-2- Enter cheat number from menu and press enter .
-
-3- After you press enter, go back to the game immediately. (waiting time is 3 second)
+1 - Basta executar o arquivo "Duble click to run.bat" (clique duas vezes para rodar).
+2 - Digite o número do código desejado no menu e pressione Enter.
+3 - Após pressionar Enter, volte imediatamente para o jogo. (o tempo de espera é de 3 segundos)
